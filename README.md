@@ -1,4 +1,4 @@
-# The Probability-theory.
+# Probability-theory.
 
 ## Probability-theory and mathematical statistics.
 
