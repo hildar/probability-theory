@@ -6,7 +6,9 @@
 
 Task 1. Check the gypotize of the Sci-Fi films from IMDB.
 
-Task 2. Predict gross by budget and rating by director name. [Link of jypiter.ipynb file](https://github.com/hildar/probability-theory/blob/master/Project_Math_stat_Theory_of_probability.ipynb)
+Task 2. Predict gross by budget and rating by director name. 
+
+[Link of jypiter.ipynb file these two tasks.](https://github.com/hildar/probability-theory/blob/master/Project_Math_stat_Theory_of_probability.ipynb)
 
 ### Lessons:
 
